@@ -7,24 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-# Run Zheng (郑润)
-
-**Ph.D. Candidate in Applied Mathematics**  
-[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/)  
-*Expected Graduation: Fall 2025*  
-
-##  Research Focus
-- **Coding Theory, Matrix Theory, Quantum Information**
+I am a Ph.D. Candidate in Applied Mathematics, in 
+[The Hong Kong Polytechnic University](https://www.polyu.edu.hk/), and expecting to graduate in Fall 2025.  My research focuses on Coding Theory, Matrix Theory, and Quantum Information. 
 
 ##  Open to Positions
--   I am actively seeking postdoctoral opportunities in **Coding Theory** worldwide (2025 start). 
+-   I am actively seeking postdoctoral opportunities in **Coding Theory** worldwide, with a start date at the end of 2025. I would greatly appreciate any information or guidance you could provide. Thank you!
   
 <section>
   <h2>📂 Examples of primitive BCH codes.</h2>
   <ul>
-    <li><a href="downloads/Exmaples of BCH codes.xlsx" download>Download the code table</a></li>
-    <li><a href="downloads/Python code.zip" download>Download the Python programs</a></li>
-    <li><a href="downloads/Magma code.zip" download>Download the Magma programs</a></li>  
+    <li><a href="_data/download/Exmaples of BCH codes.xlsx" download>Download the code table</a></li>
+    <li><a href="_data/download/Python code.zip" download>Download the Python programs</a></li>
+    <li><a href="_data/download/Magma code.zip" download>Download the Magma programs</a></li>  
   </ul>
 </section>
  
