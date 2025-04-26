@@ -14,19 +14,17 @@ Education
 
 
 * PhD in Applied Mathematics, The Hong Kong Polytechnic University,  01/2022 – present
-* MPhil in Applied Mathematics,The Hong Kong Polytechnic University, 09/2019 – 10/2021
+* MPhil in Applied Mathematics, The Hong Kong Polytechnic University, 09/2019 – 10/2021
 * Bachelor in Applied Mathematic, Hunan University, 09/2015 – 07/2019
 
 
 Work experience
 ======
-* 04/2024– 9/2024: Visiting Scholar
-* The College of William and Mary
-* Conducting research on matrix theory under the supervision of Professor Chi-Kwong Li. The Hong Kong Polytechnic University 09/2021– 12/2021
+* 04/2024– 9/2024: Visiting Scholar，The College of William and Mary
+ <br> Conducting research on matrix theory under the supervision of Professor Chi-Kwong Li. 
 
-* 09/2021– 12/2021: Research Assistant
-* The Hong Kong Polytechnic University
-* Assisting the project leader, Professor Nung Sing Sze, in the research project – “Numerical range and Crouzeix's conjecture”
+* 09/2021– 12/2021: Research Assistant, The Hong Kong Polytechnic University.
+ <br>Assisting the project leader, Professor Nung Sing Sze, in the research project – “Numerical range and Crouzeix's conjecture”。
 
 
 
@@ -42,12 +40,13 @@ Publications
 * Zejun Huang, Nung-Sing Sze and Run Zheng (corresponding author), Linear maps preserving (p,k)
 norms of tensor products of matrices, Canad. J. Math. Vol. 77 (1), 2025 pp. 187–207
 http://dx.doi.org/10.4153/S0008414X23000858
-* Linear maps preserving gamma norms of tensor products of matrices. (to be submitted)
- with Nung-Sing Sze
+* Linear maps preserving gamma norms of tensor products of matrices. (to be submitted) 
+  <br> with Nung-Sing Sze
 * Linear maps on matrices preserving parallel pairs with respect to Ky Fan k-norm. (to be submitted)
 * The dimension and Bose distance of certain primitive BCH codes. (submitted)
-with Zejun Huang, Nung-Sing Sze.
+  <br> with Zejun Huang, Nung-Sing Sze.
  * The parameters of some BCH codes with length q^m-1/lambda. (to be submitted)
+   <br>  with Zejun Huang, Nung-Sing Sze.
    
 CONFERENCES PRESENTATIONS
 ======
