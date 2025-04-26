@@ -14,11 +14,11 @@ main:
 
  
         
- #- title: "BCH Codes"
-  #  url: /bch/
+ - title: "BCH Codes"
+   url: /BCHCODE/
     
   - title: "CV"
-    url: /BCHCODE/
+    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
