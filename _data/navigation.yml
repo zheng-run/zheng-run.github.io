@@ -14,7 +14,8 @@ main:
 
  
         
- 
+ #- title: "BCH Codes"
+  #  url: /bch/
     
   - title: "CV"
     url: /cv/
