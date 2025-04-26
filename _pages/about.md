@@ -16,7 +16,9 @@ I am a Ph.D. Candidate in Applied Mathematics, in
 <section>
   <h2>📂 Examples of primitive BCH codes.</h2>
   <ul>
-    <li><a href="files/Bose.ma" download>Download the code table</a></li>
+    <li><a href="files/Examples of BCH codes.xlsx" download>Download the code table</a></li>
+    <li><a href="files/Magma code.zip" download>Download the Magma programs</a></li>
+    <li><a href="files/Python code.zip" download>Download the Python Programs</a></li>
   </ul>
 </section>
  
