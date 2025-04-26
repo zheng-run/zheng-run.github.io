@@ -8,14 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  
-
-
-
- 
-        
- - title: "BCH Codes"
-   url: /BCHCODE/
     
   - title: "CV"
     url: /cv/
