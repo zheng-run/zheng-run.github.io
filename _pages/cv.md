@@ -13,7 +13,7 @@ Education
 ======
 
 
-* PhD in Applied Mathematics, The Hong Kong Polytechnic University,  01/2022 – present
+* PhD in Applied Mathematics, The Hong Kong Polytechnic University,  01/2022 – 01/2026
 * MPhil in Applied Mathematics, The Hong Kong Polytechnic University, 09/2019 – 10/2021
 * Bachelor in Applied Mathematic, Hunan University, 09/2015 – 07/2019
 
