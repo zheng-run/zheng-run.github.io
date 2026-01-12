@@ -40,13 +40,13 @@ Publications
 * Zejun Huang, Nung-Sing Sze and Run Zheng (corresponding author), Linear maps preserving (p,k)
 norms of tensor products of matrices, Canad. J. Math. Vol. 77 (1), 2025 pp. 187–207
 http://dx.doi.org/10.4153/S0008414X23000858
-* Linear maps preserving gamma norms of tensor products of matrices. (to be submitted) 
-  <br> with Nung-Sing Sze
-* Linear maps on matrices preserving parallel pairs with respect to Ky Fan k-norm. (to be submitted)
-* The dimension and Bose distance of certain primitive BCH codes. (submitted)
-  <br> with Zejun Huang, Nung-Sing Sze.
- * The parameters of some BCH codes with length q^m-1/lambda. (to be submitted)
+* R. Zheng, N. S. Sze and Z. Huang, "The Dimension and Bose Distance of Certain Primitive BCH Codes," in IEEE Transactions on Information Theory, vol. 71, no. 10, pp. 7670-7687, Oct. 2025, doi: 10.1109/TIT.2025.3587496.
+*  The parameters of some BCH codes with length q^m-1/lambda. (submitted)
    <br>  with Zejun Huang, Nung-Sing Sze.
+* Linear maps preserving gamma norms of tensor products of matrices. (to be submitted) 
+  <br> with Nung-Sing Sze  
+* Linear maps on matrices preserving parallel pairs with respect to Ky Fan k-norm. (to be submitted)
+
    
 CONFERENCES PRESENTATIONS
 ======
